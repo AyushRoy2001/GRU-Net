@@ -4,6 +4,12 @@ This is the official implementation  of "GRU-Net: Gaussian attention aided dense
 ### Overall workflow:
 ![architecture](https://github.com/AyushRoy2001/GRU-Net/assets/94052139/63f5e08d-24ea-4516-a849-fb7204d2a954)
 
+#### Controlled Dense Residual Block (CDRB)
+![CDRB](https://github.com/AyushRoy2001/GRU-Net/assets/94052139/65c685a1-cc59-421e-ac22-39c212d50e94)
+
+#### Gaussian distribution-based Attention Module (GdAM)
+![GdAM](https://github.com/AyushRoy2001/GRU-Net/assets/94052139/3d4aa5b4-91c5-4896-82f7-47679ffdf2a9)
+
 ## How to use
 -Fork the repository.<br/>
 -Download the TNBC and MoNuSeG datasets.<br/>
