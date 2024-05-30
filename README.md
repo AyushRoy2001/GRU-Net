@@ -34,9 +34,11 @@ This is the official implementation  of "GRU-Net: Gaussian attention aided dense
 ![MonuSeg_heat](https://github.com/AyushRoy2001/GRU-Net/assets/94052139/1858d278-b8db-4970-bf2c-9e283aae5d18)
 
 ## Authors :nerd_face:*
-Surya Majumder<br/>
 Ayush Roy<br/>
-Ram Sarkar<br/>
+Payel Pramanik<br/>
+Soham Ghosal<br/>
+Daria Valenkova<br/>
 Dmitrii Kaplun<br/>
+Ram Sarkar<br/>
 
 ## Citation :thinking:*
