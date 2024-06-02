@@ -10,11 +10,6 @@ This is the official implementation  of "GRU-Net: Gaussian attention aided dense
 #### Gaussian distribution-based Attention Module (GdAM)
 ![GdAM](https://github.com/AyushRoy2001/GRU-Net/assets/94052139/3d4aa5b4-91c5-4896-82f7-47679ffdf2a9)
 
-## How to use
--Fork the repository.<br/>
--Download the TNBC and MoNuSeG datasets.<br/>
--Run the jupyter notebook to train the model and generate results. Make sure to change the paths according to your requirement.<br/>
-
 ## Results
 ### Comparison with other methods
 ![motivation](https://github.com/AyushRoy2001/GRU-Net/assets/94052139/c40a57af-e736-4832-9b25-ccd5a3b3008f)
