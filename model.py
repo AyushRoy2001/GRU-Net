@@ -4,7 +4,7 @@ import keras.backend as K
 import tensorflow.keras.layers as L
 from tensorflow.keras.models import Model
 from tensorflow.keras.layers import Input, Conv2D, MaxPooling2D, MaxPool2D, Add, Dropout, Concatenate, Conv2DTranspose, Dense, Reshape, Flatten, Softmax, Lambda, UpSampling2D, AveragePooling2D, Activation, BatchNormalization, GlobalAveragePooling2D, SeparableConv2D
-from tensorflow.keras.optimizers import Adam
+from tensorflow.keras.optimizers import AdamW
 import tensorflow_probability as tfp
 
 '''texts = [
@@ -182,6 +182,6 @@ def build_multiresunet(shape, text):
     return model
     
 model = build_multiresunet((512, 512, 3), text)
-optimizer = Adam(learning_rate=0.0001)
+optimizer = AdamW(learning_rate=0.0001)
 model.compile(loss=combined_loss, metrics=["accuracy", dice_score, recall, precision, iou], optimizer=optimizer)
 model.summary()
