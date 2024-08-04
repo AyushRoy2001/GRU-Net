@@ -1,5 +1,5 @@
 # GRU-Net: Gaussian attention aided dense skip connection based MultiResUNet for Breast Histopathology Image Segmentation
-This is the official implementation  of "GRU-Net: Gaussian attention aided dense skip connection based MultiResUNet for Breast Histopathology Image Segmentation" 
+This is the official implementation  of "GRU-Net: Gaussian attention aided dense skip connection based MultiResUNet for Breast Histopathology Image Segmentation" (MIUA 2024).
 
 ### Overall workflow:
 ![architecture](https://github.com/AyushRoy2001/GRU-Net/assets/94052139/63f5e08d-24ea-4516-a849-fb7204d2a954)
