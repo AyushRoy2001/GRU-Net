@@ -28,7 +28,7 @@ This is the official implementation  of "GRU-Net: Gaussian attention aided dense
 #### Monuseg
 ![MonuSeg_heat](https://github.com/AyushRoy2001/GRU-Net/assets/94052139/1858d278-b8db-4970-bf2c-9e283aae5d18)
 
-## Authors :nerd_face:*
+## Authors :nerd_face:
 Ayush Roy<br/>
 Payel Pramanik<br/>
 Soham Ghosal<br/>
@@ -36,7 +36,7 @@ Daria Valenkova<br/>
 Dmitrii Kaplun<br/>
 Ram Sarkar<br/>
 
-## Citation :thinking:*
+## Citation :thinking:
 ```
 @inproceedings{roy2024gru,
   title={GRU-Net: Gaussian Attention Aided Dense Skip Connection Based MultiResUNet for Breast Histopathology Image Segmentation},
