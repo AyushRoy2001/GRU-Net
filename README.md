@@ -37,6 +37,7 @@ Dmitrii Kaplun<br/>
 Ram Sarkar<br/>
 
 ## Citation :thinking:*
+```
 @inproceedings{roy2024gru,
   title={GRU-Net: Gaussian Attention Aided Dense Skip Connection Based MultiResUNet for Breast Histopathology Image Segmentation},
   author={Roy, Ayush and Pramanik, Payel and Ghosal, Sohom and Valenkova, Daria and Kaplun, Dmitrii and Sarkar, Ram},
@@ -45,3 +46,4 @@ Ram Sarkar<br/>
   year={2024},
   organization={Springer}
 }
+```
