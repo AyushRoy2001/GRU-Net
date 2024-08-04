@@ -37,6 +37,7 @@ Dmitrii Kaplun<br/>
 Ram Sarkar<br/>
 
 ## Citation :thinking:
+Please do cite our paper in case you find it useful for your research.<br/>
 ```
 @inproceedings{roy2024gru,
   title={GRU-Net: Gaussian Attention Aided Dense Skip Connection Based MultiResUNet for Breast Histopathology Image Segmentation},
